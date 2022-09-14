@@ -9160,3 +9160,8 @@ IM/weibo/labels_sparse.pkl
 IM/weibo/model_2s.pt
 IM/weibo/model_df.pt
 IM/weibo/sparse_instance.npz
+papers/cosmos
+papers/saliency
+papers/cosmos
+papers/saliency
+papers/saliency
