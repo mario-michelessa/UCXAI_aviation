@@ -9168,3 +9168,7 @@ papers/saliency
 papers/saliency
 IM/weibo/features_influencers2_-1_150_cas.pkl
 IM/weibo/features_targets2_-1_150_cas.pkl
+IM/cosineDis.npy
+.gitignore
+.gitignore
+IM/Influence maximization.pptx
